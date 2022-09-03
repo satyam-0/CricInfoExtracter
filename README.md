@@ -13,7 +13,18 @@ Cricinfo Extracter (Cricinfo 2019 WorldCup Data Extracter)
 
 A very good reason for me to make this project is I enjoyed while making it , It was a great fun activity for me .
 
-## Tools
+## Activity 
+
+**The tasks performed while making the project are -->** 
+- Read data from the source : Cricinfo Worlcup 2019 (using the axios library)
+- Process the data we read from website : Get all the teams( using the jsdom library)
+- Change the information extracted (Array Manipulation) 
+- Write processed data in excel (Match result per team in their own sheet) 
+- Create folder one for each team 
+- Write files: PDF files for scorecard of each match in relevant folder
+
+
+## Tech Stack
 
 
 

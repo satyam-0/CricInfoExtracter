@@ -1,0 +1,21 @@
+{
+  "name": "08_oct_2021_1st_project",
+  "version": "1.0.0",
+  "main": "1st_Project_WorldCup2019.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "excel4node": "^1.8.0",
+    "jsdom": "^17.0.0",
+    "minimist": "^1.2.6",
+    "path": "^0.12.7",
+    "pdf-lib": "^1.17.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}

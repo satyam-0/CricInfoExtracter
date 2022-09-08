@@ -1,4 +1,5 @@
-// What is the purpose of this project ?
+// What is the purpose of this project 
+// ....
 // the purpose of this project is to extract informatin of worldcup 2019 from cricinfo and present
 // that in thr form in the exel and pdf scorecards
 // the real purpose is to learn how to extract information and get experience with js
